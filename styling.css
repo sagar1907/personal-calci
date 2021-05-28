@@ -25,7 +25,7 @@
 #calculator {
     width: 60%;
     height: 80%;
-    min-width: auto;
+    min-width: 500px;
     min-height: 400px;
     background-color: #161514;
     margin: auto;
